@@ -46,23 +46,23 @@ function App() {
           isAboveMediumScreens={isAboveMediumScreens}
         />
       </div>
-      <LineGradient />
+      {/* <LineGradient />
       <div className="w-5/6 mx-auto md:min-h-full">
         <MySkills />
       </div>
       <LineGradient />
       <div className="w-5/6 mx-auto">
         <Projects />
-      </div>
-      <LineGradient />
+      </div> */}
+      {/* <LineGradient />
       <div className="w-5/6 mx-auto">
         <Testimonials />
-      </div>
-      <LineGradient />
+      </div> */}
+      {/* <LineGradient />
       <div className="w-5/6 mx-auto">
         <Contact />
-      </div>
-      <Footer />
+      </div> */}
+      {/* <Footer /> */}
     </div>
   );
 }

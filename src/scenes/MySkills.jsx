@@ -24,8 +24,12 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+            I specialize in building complex web applications, leading front-end
+            teams, digital product design and developing visual design systems.
+            I enjoy creating effortless user experience and designing delightful
+            digital products. I always seek new opportunities for cooperation on
+            projects around interesting dashboards, design systems or landing
+            pages. Let’s create something awesome together!
           </p>
         </motion.div>
 
