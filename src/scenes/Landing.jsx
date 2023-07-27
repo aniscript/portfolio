@@ -41,7 +41,7 @@ const Landing = ({ setSelectedPage, isAboveMediumScreens }) => {
           }}
         >
           <p className="text-6xl font-playfair z-10 text-center md:text-start">
-            Anish {""}
+            Anish
             <span
               className="xs:relative xs:text-deep-blue xs:font-semibold z-20 xs:before:content-brush
                         before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]"
@@ -51,8 +51,9 @@ const Landing = ({ setSelectedPage, isAboveMediumScreens }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Experienced Frontend Engineer with a demonstrated history of working
-            in the information technology and services industry.
+            I have 6 years’ experience as a frontend developer . ‍ I value
+            clarity, empathy, and integrity above all else. These ideals guide
+            my approach to problem solving and life in general.
           </p>
         </motion.div>
         {/* Call to actions */}
